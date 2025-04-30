@@ -1,4 +1,3 @@
-# Final Year Project
 
 ## Project Overview
 The **Home Service Provider** project refers to the facilities-based carrier or reseller with whom the customer contracts for the provision of mobile telecommunications services. Users can create an account and log in. They can use our app's chart visualisation to find the best services near them or around the world, as well as different types of categories. 
